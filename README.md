@@ -2,7 +2,7 @@
 ---
 First-person block building game similar to Minecraft.
 
-Project will include terrain, which the user can "walk" along. Camera changes what the user is looking at. The user will be able to place blocks in fron of them by pressing 'P'. The scene will be lit using ambient light, directional light, spotlighting.
+Project will include terrain, which the user can "walk" along. Camera changes what the user is looking at. The user will be able to place blocks in front of them by pressing 'P'. The scene will be lit using ambient light, directional light, and spotlighting.
 
 ---
 

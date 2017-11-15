@@ -40,6 +40,7 @@ To Be Done
  
  **Placing Blocks:**
  
+ Should be done (haven't gotten to test it yet)
  - pressing 'P' should place a textured box in front of the user
  
  

@@ -40,8 +40,7 @@ To Be Done
  
  **Placing Blocks:**
  
- Should be done (haven't gotten to test it yet)
- - pressing 'P' should place a textured box in front of the user
+ - pressing 'P' should place a textured box in front of the user on the ground
  
  
  **Lighting and Shaders:**
@@ -49,7 +48,7 @@ To Be Done
  - scene should be lit by dim ambient light
  - scene should be lit using directional light from above the scene(like the sun)/will be toggled on and off using 'T'
  - scene should be lit using spotlight coming from the camera to simulate a flashlight/ will be toggled on and off using 'F'
- - will utilixe one or both tesselation shaders
+ - will utilize one or both tesselation shaders
  
  
  How to Use
